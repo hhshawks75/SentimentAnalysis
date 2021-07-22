@@ -1,0 +1,16 @@
+Nov 14, 2019 9:08:57 PM movieReviewClassification.Assignment3$5 actionPerformed
+INFO: database button clicked.
+Nov 14, 2019 9:09:12 PM movieReviewClassification.Assignment3$3 itemStateChanged
+INFO: Command chosen, Item = Choose an option below...
+Nov 14, 2019 9:09:12 PM movieReviewClassification.Assignment3$3 itemStateChanged
+INFO: StateChange = 2
+Nov 14, 2019 9:09:12 PM movieReviewClassification.Assignment3$3 itemStateChanged
+INFO: Command chosen, Item =  1. Load new movie review collection (given a folder or a file path).
+Nov 14, 2019 9:09:12 PM movieReviewClassification.Assignment3$3 itemStateChanged
+INFO: StateChange = 1
+Nov 14, 2019 9:09:15 PM movieReviewClassification.Assignment3$2 windowClosing
+INFO: Closing window.
+Nov 14, 2019 9:09:15 PM movieReviewClassification.Assignment3$2 windowClosing
+INFO: Saving database.
+Nov 14, 2019 9:09:15 PM movieReviewClassification.Assignment3$2 windowClosing
+INFO: System shutdown.
